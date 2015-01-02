@@ -10,6 +10,7 @@ USERNAME = 'admin'
 PASSWORD = 'admin123'
 
 app = Falsk(__name__)
+app.config.from_object(__name__)
 
 
 
