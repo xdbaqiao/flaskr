@@ -1,0 +1,4 @@
+flaskr.db
+.*
+test.py
+*.pyc
